@@ -1,1 +1,9 @@
+/workspace/demoh2/src/main/java/com/springboot/demoh2/EmployeeRepo/EmployeeRepo.java
 /workspace/demoh2/src/main/java/com/springboot/demoh2/Demoh2Application.java
+/workspace/demoh2/src/main/java/com/springboot/demoh2/DTO/EmployeeDTO.java
+/workspace/demoh2/src/main/java/com/springboot/demoh2/service/EmployeeServiceIMPL.java
+/workspace/demoh2/src/main/java/com/springboot/demoh2/DTO/EmployeeSaveDTO.java
+/workspace/demoh2/src/main/java/com/springboot/demoh2/DTO/EmployeeUpdateDTO.java
+/workspace/demoh2/src/main/java/com/springboot/demoh2/entity/Employee.java
+/workspace/demoh2/src/main/java/com/springboot/demoh2/EmployeeController/EmployeeController.java
+/workspace/demoh2/src/main/java/com/springboot/demoh2/service/EmployeeService.java
