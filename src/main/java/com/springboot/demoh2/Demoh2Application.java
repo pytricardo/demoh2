@@ -12,4 +12,4 @@ public class Demoh2Application {
 
 }
 
-/* cambio dese VS Ubuntu */
+/* cambio desde IntelliJ Ubuntu */
