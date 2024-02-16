@@ -33,6 +33,11 @@ public class EmployeeController
        return allEmployees;
     }
 
+    @GetMapping(path = "/hello")
+    public String getGreeting(){
+        return "Hello spring boot application";
+    }
+
     @PutMapping(path = "/update")
 
     public String updateEmployee(@RequestBody EmployeeUpdateDTO employeeUpdateDTO)
